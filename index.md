@@ -6,3 +6,6 @@
 def greet():
     print("Hello, world!")
 ```
+- [x] Learn programming
+- [x] Utilize my student developer pack
+- [ ] Get into the tech market
